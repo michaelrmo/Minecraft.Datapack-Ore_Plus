@@ -1,0 +1,22 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "target": {
+          "Name": "minecraft:stone"
+        },
+        "state": {
+          "Name": "minecraft:emerald_ore"
+        }
+      },
+      "type": "minecraft:emerald_ore"
+    },
+    "decorator": {
+      "config": {
+        "count": 128
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}
