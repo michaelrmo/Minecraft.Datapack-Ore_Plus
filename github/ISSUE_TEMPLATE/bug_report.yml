@@ -1,0 +1,51 @@
+name: 🐛 Bug Report
+description: Submit issues to improve the datapack stability
+title: "[Bug] Title"
+assignees: wen-wen520
+labels:
+  - "🐛 Bug"
+body:      
+- type: textarea
+  id: description
+  validations:
+    required: true
+  attributes:
+     label: Description
+     description: Please provide a brief description of the issue you encountered
+
+- type: textarea
+  id: screenshots
+  attributes:
+     label: Screenshots
+     description: If possible, submit screenshots to better illustrate the issue
+
+- type: textarea
+  id: recurrent
+  validations:
+    required: true
+  attributes:
+     label: Steps to Reproduce
+     description: Steps to reproduce the issue
+
+- type: checkboxes
+  id: target-game-version
+  attributes:
+     label: Game Version
+     description: Select the Minecraft client version where the issue was found (the right side is the version of datapck)
+     options:
+        - label: "1.16.2 - 1.16.5 (6)"
+        - label: "1.17 - 1.17.1 (7)"
+        - label: "1.18 - 1.18.1 (8)"
+        - label: "1.18.2 (9)"
+        - label: "1.19 - 1.19.3 (10)"
+        - label: "1.19.4 (12)"
+        - label: "1.20 - 1.20.1 (15)"
+        - label: "1.20.2 (18)"
+        - label: "1.20.3 - 1.20.4 (26)"
+        - label: "1.20.5 - 1.20.6 (41)"
+        - label: "1.21 (47)"
+        - label: "1.21.1 (48)"
+        - label: "1.21.2 - 1.21.3 (57)"
+        - label: "1.21.4 (61)"
+
+         required: true
