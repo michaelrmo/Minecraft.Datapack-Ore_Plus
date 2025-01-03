@@ -13,6 +13,14 @@ body:
       ## Please describe your request in as much detail as possible
 
 - type: textarea
+  id: content
+  validations: 
+    required: true
+  attributes: 
+    label: Content
+    description: Please provide a detailed description of your request
+
+- type: textarea
   id: necessarity
   validations: 
     required: true

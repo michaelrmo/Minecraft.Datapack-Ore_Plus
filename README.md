@@ -1,21 +1,31 @@
 <div align="center">
 
+<img src="assets/icon.png" alt="icon" style="width: 20%;">
+
 <h1>
 Ore Plus Datapack
 </h1>
+
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/wen-wen520/Minecraft.Datapack-Ore_Plus)](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus) ![GitHub Release Date](https://img.shields.io/github/release-date/wen-wen520/Minecraft.Datapack-Ore_Plus) ![GitHub All Releases](https://img.shields.io/github/downloads/wen-wen520/Minecraft.Datapack-Ore_Plus/total) ![GitHub stars](https://img.shields.io/github/stars/wen-wen520/Minecraft.Datapack-Ore_Plus?style=flat) ![GitHub forks](https://img.shields.io/github/forks/wen-wen520/Minecraft.Datapack-Ore_Plus)
 </div>
 
 ## 📋 Overview
 
-This repository contains datapacks designed to modify the ore generation in minecraft.
+This datapack modifies the default ore generation in Minecraft, primarily increasing the spawn rates of certain minerals.
 
 ## ❇️ Features
 
-### No need for mod loader
+### No Mod Loaders Required: 
+This datapack works seamlessly with vanilla Minecraft, requiring no additional mod loaders or software.
 
-- based on vanilla minecraft datapack, you need no mod loader to run this
+### Wide Compatibility: 
+Designed to integrate smoothly with various Minecraft worlds and setups, ensuring minimal conflicts.
+
+### Enhanced Ore Generation: 
+Increases the spawn rates of specific minerals, making resource gathering more efficient.
+
+###
 
 ## ✅ Installation
 
