@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/main.png" alt="icon for this repo" style="width: 20%;">
+<img src="assets/icon/main.png" alt="icon for this repo" style="width: 20%;">
 
 <h1>
 Ore Plus Datapack
@@ -123,3 +123,5 @@ Resource, Guide and Infomations
 [Minecraft Title Generator](https://github.com/ewanhowell5195/MinecraftTitleGenerator)\
 Use for assets in this project
 
+[Xray Ultimate Resource Pack](https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible)
+Can exactly show the ores underground, used in gallery
