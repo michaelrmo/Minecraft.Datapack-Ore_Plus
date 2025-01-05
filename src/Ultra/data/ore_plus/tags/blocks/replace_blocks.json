@@ -11,6 +11,8 @@
     "minecraft:sandstone",
     "minecraft:red_sandstone",
     "minecraft:sand",
-    "minecraft:red_sand"
+    "minecraft:red_sand",
+    "deepslate",
+    "tuff"
   ]
 }

@@ -6,18 +6,42 @@
           "config": {
             "feature": {
               "config": {
-                "target": {
-                  "Name": "minecraft:stone"
-                },
-                "state": {
-                  "Name": "minecraft:emerald_ore"
-                }
+                "targets": [
+                  {
+                    "target": {
+                      "tag": "minecraft:stone_ore_replaceables",
+                      "predicate_type": "minecraft:tag_match"
+                    },
+                    "state": {
+                      "Name": "minecraft:emerald_ore"
+                    }
+                  },
+                  {
+                    "target": {
+                      "tag": "minecraft:deepslate_ore_replaceables",
+                      "predicate_type": "minecraft:tag_match"
+                    },
+                    "state": {
+                      "Name": "minecraft:deepslate_emerald_ore"
+                    }
+                  }
+                ]
               },
-              "type": "minecraft:emerald_ore"
+              "type": "minecraft:replace_single_block"
             },
             "decorator": {
-              "config": {},
-              "type": "minecraft:emerald_ore"
+              "config": {
+                "height": {
+                  "min_inclusive": {
+                    "absolute": 4
+                  },
+                  "max_inclusive": {
+                    "absolute": 31
+                  },
+                  "type": "minecraft:uniform"
+                }
+              },
+              "type": "minecraft:range"
             }
           },
           "type": "minecraft:decorated"
@@ -31,7 +55,13 @@
     },
     "decorator": {
       "config": {
-        "count": 12
+        "count": {
+          "type": "minecraft:uniform",
+          "value": {
+            "min_inclusive": 8,
+            "max_inclusive": 16
+          }
+        }
       },
       "type": "minecraft:count"
     }

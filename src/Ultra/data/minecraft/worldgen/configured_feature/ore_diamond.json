@@ -6,22 +6,42 @@
           "config": {
             "feature": {
               "config": {
-                "target": {
-                  "tag": "ore_plus:replace_blocks",
-                  "predicate_type": "minecraft:tag_match"
-                },
-                "state": {
-                  "Name": "minecraft:diamond_ore"
-                },
-                "size": 8
+                "targets": [
+                  {
+                    "target": {
+                      "tag": "ore_plus:replace_blocks",
+                      "predicate_type": "minecraft:tag_match"
+                    },
+                    "state": {
+                      "Name": "minecraft:diamond_ore"
+                    }
+                  },
+                  {
+                    "target": {
+                      "tag": "ore_plus:replace_blocks",
+                      "predicate_type": "minecraft:tag_match"
+                    },
+                    "state": {
+                      "Name": "minecraft:deepslate_diamond_ore"
+                    }
+                  }
+                ],
+                "size": 8,
+                "discard_chance_on_air_exposure": 0
               },
               "type": "minecraft:ore"
             },
             "decorator": {
               "config": {
-                "bottom_offset": 0,
-                "top_offset": 0,
-                "maximum": 256
+                "height": {
+                  "min_inclusive": {
+                    "absolute": 0
+                  },
+                  "max_inclusive": {
+                    "absolute": 256
+                  },
+                  "type": "minecraft:uniform"
+                }
               },
               "type": "minecraft:range"
             }
@@ -37,7 +57,7 @@
     },
     "decorator": {
       "config": {
-        "count": 128
+        "count": 256
       },
       "type": "minecraft:count"
     }

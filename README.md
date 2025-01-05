@@ -1,3 +1,10 @@
+<div align="right">
+🌐
+<a href="https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus">English</a>
+&nbsp;|&nbsp;
+<a href="https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D">中文</a>
+</div>
+
 <div align="center">
 
 <img src="assets/icon/main.png" alt="icon for this repo" style="width: 20%;">

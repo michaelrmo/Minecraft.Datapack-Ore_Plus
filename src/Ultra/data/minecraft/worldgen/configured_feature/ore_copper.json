@@ -9,15 +9,24 @@
                 "targets": [
                   {
                     "target": {
-                      "block": "minecraft:netherrack",
-                      "predicate_type": "minecraft:block_match"
+                      "tag": "ore_plus:replace_blocks",
+                      "predicate_type": "minecraft:tag_match"
                     },
                     "state": {
-                      "Name": "minecraft:nether_quartz_ore"
+                      "Name": "minecraft:copper_ore"
+                    }
+                  },
+                  {
+                    "target": {
+                      "tag": "ore_plus:replace_blocks",
+                      "predicate_type": "minecraft:tag_match"
+                    },
+                    "state": {
+                      "Name": "minecraft:deepslate_copper_ore"
                     }
                   }
                 ],
-                "size": 14,
+                "size": 10,
                 "discard_chance_on_air_exposure": 0
               },
               "type": "minecraft:ore"
@@ -26,12 +35,12 @@
               "config": {
                 "height": {
                   "min_inclusive": {
-                    "above_bottom": 10
+                    "absolute": 0
                   },
                   "max_inclusive": {
-                    "below_top": 10
+                    "absolute": 256
                   },
-                  "type": "minecraft:uniform"
+                  "type": "minecraft:trapezoid"
                 }
               },
               "type": "minecraft:range"
@@ -48,7 +57,7 @@
     },
     "decorator": {
       "config": {
-        "count": 45
+        "count": 256
       },
       "type": "minecraft:count"
     }

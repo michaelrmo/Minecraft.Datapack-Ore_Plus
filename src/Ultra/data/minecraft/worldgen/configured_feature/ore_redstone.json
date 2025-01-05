@@ -6,25 +6,48 @@
           "config": {
             "feature": {
               "config": {
-                "target": {
-                  "tag": "ore_plus:replace_blocks",
-                  "predicate_type": "minecraft:tag_match"
-                },
-                "state": {
-                  "Properties": {
-                    "lit": "false"
+                "targets": [
+                  {
+                    "target": {
+                      "tag": "ore_plus:replace_blocks",
+                      "predicate_type": "minecraft:tag_match"
+                    },
+                    "state": {
+                      "Properties": {
+                        "lit": "false"
+                      },
+                      "Name": "minecraft:redstone_ore"
+                    }
                   },
-                  "Name": "minecraft:redstone_ore"
-                },
-                "size": 8
+                  {
+                    "target": {
+                      "tag": "ore_plus:replace_blocks",
+                      "predicate_type": "minecraft:tag_match"
+                    },
+                    "state": {
+                      "Properties": {
+                        "lit": "false"
+                      },
+                      "Name": "minecraft:deepslate_redstone_ore"
+                    }
+                  }
+                ],
+                "size": 8,
+                "discard_chance_on_air_exposure": 0
               },
               "type": "minecraft:ore"
             },
             "decorator": {
               "config": {
-                "bottom_offset": 0,
-                "top_offset": 0,
-                "maximum": 256
+                "height": {
+                  "min_inclusive": {
+                    "absolute": 0
+                  },
+                  "max_inclusive": {
+                    "absolute": 256
+                  },
+                  "type": "minecraft:uniform"
+                }
               },
               "type": "minecraft:range"
             }
@@ -40,7 +63,7 @@
     },
     "decorator": {
       "config": {
-        "count": 128
+        "count": 256
       },
       "type": "minecraft:count"
     }
