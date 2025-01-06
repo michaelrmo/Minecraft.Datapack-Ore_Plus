@@ -44,34 +44,38 @@ The table below shows the modified ore generation probabilities after the datapa
 Please note that the names of the packs do not reflect the directly multiplied probabilities from the vanilla rates, 
 but rather the extent to which the datapack modifies the original ore generation probabilities.
 
->[!Note]
->The Ultra Datapack will also modify the range of ore generation, from 0 to 256, to make sure all ore can generate.
+
+| Ore Type   | Ore Name   | Vanilla Rate  | x2       | x4       | Ultra    |
+|:----------:|:----------:|:-------------:|:--------:|:--------:|:--------:|
+| Ore        | Coal       | 20            | 36       | 68       | 256      |
+| Ore        | Copper     | 6             | 10       | 20       | 256      |
+| Large      | Debris     | 1             | 8        | 28       | 256      |
+| Small      | Debris     | 1             | 8        | 28       | 256      |
+| Ore        | Diamond    | 1             | 8        | 28       | 256      |
+| Ore        | Emerald    | [3,8]         | [8,16]   | [16,28]  | 256      |
+| Ore        | Gold       | 2             | 10       | 28       | 256      |
+| Deltas     | Gold       | 20            | 36       | 68       | 256      |
+| Extra      | Gold       | 20            | 36       | 68       | 256      |
+| Nether     | Gold       | 10            | 18       | 36       | 256      |
+| Ore        | Iron       | 20            | 36       | 68       | 256      |
+| Ore        | Lapis      | 1             | 8        | 20       | 256      |
+| Deltas     | Quartz     | 32            | 45       | 80       | 256      |
+| Nether     | Quartz     | 16            | 30       | 60       | 256      |
+| Ore        | Redstone   | 8             | 14       | 32       | 256      |
 
 
+>[!Tip]
+>Rates also listed on the download page on modrinth
 
-| Ore Name  | Ore Type | Vanilla Rate | Datapack x2  | Datapack x4  | Datapack Ultra |
-|:----------:|:--------:|:------------:|:---:|:---:|:-----:|
-| Coal      | Ore      | 20           | 35  | 64  | 128   |
-| Iron      | Ore      | 20           | 35  | 64  | 128   |
-| Lapis     | Ore      | 3            | 12  | 28  | 128   |
-| Gold      | Deltas   | 20           | 35  | 64  | 128   |
-| Gold      | Extra    | 20           | 35  | 64  | 128   |
-| Gold      | Ore      | 2            | 10  | 26  | 128   |
-| Redstone  | Ore      | 8            | 14  | 30  | 128   |
-| Diamond   | Ore      | 1            | 8   | 24  | 128   |
-| Emerald   | Ore      | 5            | 12  | 28  | 128   |
-| Debris    | Large    | 1            | 8   | 24  | 128   |
-| Debris    | Small    | 1            | 8   | 24  | 128   |
-| Quartz    | Deltas   | 32           | 40  | 80  | 128   |
-| Quartz    | Nether   | 32           | 40  | 80  | 128   |
-| Gold      | Nether   | 20           | 35  | 64  | 128   |
+Also please refer to [wiki](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki) for more details, since the rate may adjust for different mc versions
 
-
-Rates also listed on the download page on modrinth\
-And also feel free to refer to [wiki](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki) for more details
 ## ⚙️ Versions
 
-### Now Support
+### Supported
+
+Minecraft: `1.17 - 1.17.1`\
+Datapack Format: `7`\
+**x2** **x4** and **Ultra** are available
 
 Minecraft: `1.16.2 -1.16.5`\
 Datapack Format: `6`\
@@ -79,7 +83,7 @@ Datapack Format: `6`\
 
 ### Is Supporting
 
-mc `1.17 1.18 1.19 1.20 1.21` are on the way here
+mc `1.18 1.19 1.20 1.21` are on the way here
 
 ### Not Support
 
