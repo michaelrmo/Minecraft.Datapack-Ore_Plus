@@ -7,12 +7,7 @@
     "minecraft:andesite",
     "minecraft:gravel",
     "minecraft:dirt",
-    "minecraft:grass_block",
     "minecraft:sandstone",
-    "minecraft:red_sandstone",
-    "minecraft:sand",
-    "minecraft:red_sand",
-    "deepslate",
-    "tuff"
+    "minecraft:red_sandstone"
   ]
 }

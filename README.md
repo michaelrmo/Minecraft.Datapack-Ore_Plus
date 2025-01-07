@@ -41,54 +41,43 @@ Increases the spawn rates of specific minerals, making resource gathering more e
 
 The table below shows the modified ore generation probabilities after the datapack is applied. 
 
-Please note that the names of the packs do not reflect the directly multiplied probabilities from the vanilla rates, 
+Please note that the names of the packs do not reflect the directly multiplied probabilities from the vanilla rates,\
 but rather the extent to which the datapack modifies the original ore generation probabilities.
 
 
-| Ore Type   | Ore Name   | Vanilla Rate  | x2       | x4       | Ultra    |
-|:----------:|:----------:|:-------------:|:--------:|:--------:|:--------:|
-| Ore        | Coal       | 20            | 36       | 68       | 256      |
-| Ore        | Copper     | 6             | 10       | 20       | 256      |
-| Large      | Debris     | 1             | 8        | 28       | 256      |
-| Small      | Debris     | 1             | 8        | 28       | 256      |
-| Ore        | Diamond    | 1             | 8        | 28       | 256      |
-| Ore        | Emerald    | [3,8]         | [8,16]   | [16,28]  | 256      |
-| Ore        | Gold       | 2             | 10       | 28       | 256      |
-| Deltas     | Gold       | 20            | 36       | 68       | 256      |
-| Extra      | Gold       | 20            | 36       | 68       | 256      |
-| Nether     | Gold       | 10            | 18       | 36       | 256      |
-| Ore        | Iron       | 20            | 36       | 68       | 256      |
-| Ore        | Lapis      | 1             | 8        | 20       | 256      |
-| Deltas     | Quartz     | 32            | 45       | 80       | 256      |
-| Nether     | Quartz     | 16            | 30       | 60       | 256      |
-| Ore        | Redstone   | 8             | 14       | 32       | 256      |
+
+| Ore Type   | Ore Name        | Vanilla Rate | Datapack x2      | Datapack x4      | Datapack Ultra |
+|:----------:|:---------------:|:------------:|:----------------:|:----------------:|:--------------:|
+| Large      | Ancient Debris  | 1            | 8                | 16               | 256            |
+| Lower      | Coal            | 20           | 40               | 80               | 256            |
+| Upper      | Coal            | 30           | 54               | 100              | 256            |
+| Ore        | Copper          | 16           | 26               | 48               | 256            |
+| Large      | Copper          | 16           | 26               | 48               | 256            |
+| Small      | Debris          | 1            | 8                | 16               | 256            |
+| Ore        | Diamond         | 7            | 20               | 40               | 256            |
+| Buried     | Diamond         | 4            | 12               | 24               | 256            |
+| Large      | Diamond         | 9            | 24               | 48               | 256            |
+| Ore        | Emerald         | 100          | 160              | 220              | 256            |
+| Ore        | Gold            | 4            | 10               | 20               | 256            |
+| Deltas     | Gold            | 20           | 35               | 80               | 256            |
+| Extra      | Gold            | 50           | 90               | 200              | 256            |
+| Lower      | Gold            | [0,1]        | [6,12]           | [18,24]          | 256            |
+| Nether     | Gold            | 10           | 20               | 40               | 256            |
+| Middle     | Iron            | 10           | 20               | 40               | 256            |
+| Small      | Iron            | 10           | 20               | 40               | 256            |
+| Upper      | Iron            | 90           | 140              | 200              | 256            |
+| Ore        | Lapis           | 2            | 8                | 20               | 256            |
+| Buried     | Lapis           | 4            | 12               | 32               | 256            |
+| Deltas     | Quartz          | 32           | 56               | 100              | 256            |
+| Nether     | Quartz          | 16           | 28               | 48               | 256            |
+| Ore        | Redstone        | 4            | 10               | 22               | 256            |
+| Lower      | Redstone        | 8            | 18               | 36               | 256            |
 
 
 >[!Tip]
 >Rates also listed on the download page on modrinth
 
 Also please refer to [wiki](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki) for more details, since the rate may adjust for different mc versions
-
-## ⚙️ Versions
-
-### Supported
-
-Minecraft: `1.17 - 1.17.1`\
-Datapack Format: `7`\
-**x2** **x4** and **Ultra** are available
-
-Minecraft: `1.16.2 -1.16.5`\
-Datapack Format: `6`\
-**x2** **x4** and **Ultra** are available
-
-### Is Supporting
-
-mc `1.18 1.19 1.20 1.21` are on the way here
-
-### Not Support
-
-below `1.16.1` (Included)\
-The key part to modify ore pre generated `worldgen` has not been introduced to datapack
 
 
 ## ✅ Installation
@@ -112,6 +101,39 @@ Click and drag the data pack to Minecraft\
 Then move the data pack to the right hand side and click **Done**
 
 [For detailed steps](https://minecraft.wiki/w/Tutorial:Installing_a_data_pack)
+
+>[!Tip]
+>Modrinth also provide auto [packed mod](https://modrinth.com/datapack/ore_plus/versions?l=fabric&l=forge&l=quilt&l=neoforge).
+
+## ⚙️ Versions
+
+### Supported
+
+Minecraft: `1.18.2`\
+Datapack Format: `9`\
+**x2** **x4** and **Ultra** are available
+
+Minecraft: `1.18 - 1.18.1`\
+Datapack Format: `8`\
+**Limited Support[ℹ️](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/For-mc1.18)**\
+**x2** **x4** and **Ultra** are available
+
+Minecraft: `1.17 - 1.17.1`\
+Datapack Format: `7`\
+**x2** **x4** and **Ultra** are available
+
+Minecraft: `1.16.2 -1.16.5`\
+Datapack Format: `6`\
+**x2** **x4** and **Ultra** are available
+
+### Is Supporting
+
+mc `1.18 1.19 1.20 1.21` are on the way here
+
+### Not Support
+
+below `1.16.1` (Included)\
+The key part to modify ore pre generated `worldgen` has not been introduced to datapack
 
 ## 📃 Feeadbacks
 

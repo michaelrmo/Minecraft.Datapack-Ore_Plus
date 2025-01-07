@@ -12,7 +12,7 @@
       },
       {
         "target": {
-          "tag": "ore_plus:replace_blocks",
+          "tag": "minecraft:deepslate_ore_replaceables",
           "predicate_type": "minecraft:tag_match"
         },
         "state": {
