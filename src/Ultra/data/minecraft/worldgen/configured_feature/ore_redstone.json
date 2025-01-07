@@ -1,72 +1,33 @@
 {
   "config": {
-    "feature": {
-      "config": {
-        "feature": {
-          "config": {
-            "feature": {
-              "config": {
-                "targets": [
-                  {
-                    "target": {
-                      "tag": "ore_plus:replace_blocks",
-                      "predicate_type": "minecraft:tag_match"
-                    },
-                    "state": {
-                      "Properties": {
-                        "lit": "false"
-                      },
-                      "Name": "minecraft:redstone_ore"
-                    }
-                  },
-                  {
-                    "target": {
-                      "tag": "ore_plus:replace_blocks",
-                      "predicate_type": "minecraft:tag_match"
-                    },
-                    "state": {
-                      "Properties": {
-                        "lit": "false"
-                      },
-                      "Name": "minecraft:deepslate_redstone_ore"
-                    }
-                  }
-                ],
-                "size": 8,
-                "discard_chance_on_air_exposure": 0
-              },
-              "type": "minecraft:ore"
-            },
-            "decorator": {
-              "config": {
-                "height": {
-                  "min_inclusive": {
-                    "absolute": 0
-                  },
-                  "max_inclusive": {
-                    "absolute": 256
-                  },
-                  "type": "minecraft:uniform"
-                }
-              },
-              "type": "minecraft:range"
-            }
-          },
-          "type": "minecraft:decorated"
+    "targets": [
+      {
+        "target": {
+          "tag": "ore_plus:replace_blocks",
+          "predicate_type": "minecraft:tag_match"
         },
-        "decorator": {
-          "config": {},
-          "type": "minecraft:square"
+        "state": {
+          "Properties": {
+            "lit": "false"
+          },
+          "Name": "minecraft:redstone_ore"
         }
       },
-      "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {
-        "count": 256
-      },
-      "type": "minecraft:count"
-    }
+      {
+        "target": {
+          "tag": "ore_plus:replace_blocks",
+          "predicate_type": "minecraft:tag_match"
+        },
+        "state": {
+          "Properties": {
+            "lit": "false"
+          },
+          "Name": "minecraft:deepslate_redstone_ore"
+        }
+      }
+    ],
+    "size": 8,
+    "discard_chance_on_air_exposure": 0
   },
-  "type": "minecraft:decorated"
+  "type": "minecraft:ore"
 }
