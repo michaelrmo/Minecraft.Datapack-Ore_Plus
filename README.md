@@ -109,6 +109,10 @@ Then move the data pack to the right hand side and click **Done**
 
 ### Supported
 
+Minecraft: `1.19-1.19.3`\
+Datapack Format: `10`\
+**x2** **x4** and **Ultra** are availa
+
 Minecraft: `1.18.2`\
 Datapack Format: `9`\
 **x2** **x4** and **Ultra** are available
@@ -128,7 +132,7 @@ Datapack Format: `6`\
 
 ### Is Supporting
 
-mc `1.18 1.19 1.20 1.21` are on the way here
+mc `1.20 1.21` are on the way here
 
 ### Not Support
 
