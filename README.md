@@ -34,6 +34,21 @@ Designed to integrate smoothly with various Minecraft worlds and setups, ensurin
 ### Enhanced Ore Generation: 
 Increases the spawn rates of specific minerals, making resource gathering more efficient.
 
+## 🖼️ Gallery
+
+[Modrinth Gallery](https://modrinth.com/datapack/ore_plus/gallery)
+
+![The canyon ore generation using x2 datapack](https://cdn.modrinth.com/data/EvMSt5OU/images/dca5965649cb1ab5c601c1e8ef002ef2c68491a2.jpeg)
+
+<br>
+
+![The canyon ore generation using x4 datapack](https://cdn.modrinth.com/data/EvMSt5OU/images/388425fee190b0a78ac0777cb02aa3745236d230.jpeg)
+
+<br>
+
+![The surface ore generation using Ultra datapack](https://cdn.modrinth.com/data/EvMSt5OU/images/da9fa81e078071e1133d0d3ef6eefd415e96f2be.jpeg)
+
+Only Ultra will modify the range of ore generation
 
 ## 📖 Detail
 
@@ -109,26 +124,38 @@ Then move the data pack to the right hand side and click **Done**
 
 ### Supported
 
+Minecraft: `1.20 - 1.20.6`\
+Datapack Format: `15 - 41`\
+**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.20)
+
+Minecraft: `1.19.4`\
+Datapack Format: `12`\
+**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4)
+
 Minecraft: `1.19-1.19.3`\
 Datapack Format: `10`\
-**x2** **x4** and **Ultra** are availa
+**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.19&g=1.19.1&g=1.19.2&g=1.19.3)
+
 
 Minecraft: `1.18.2`\
 Datapack Format: `9`\
-**x2** **x4** and **Ultra** are available
+**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.18.2)
+
 
 Minecraft: `1.18 - 1.18.1`\
 Datapack Format: `8`\
 **Limited Support[ℹ️](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/For-mc1.18)**\
-**x2** **x4** and **Ultra** are available
+**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.18&g=1.18.1)
+
 
 Minecraft: `1.17 - 1.17.1`\
 Datapack Format: `7`\
-**x2** **x4** and **Ultra** are available
+**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.17&g=1.17.1)
+
 
 Minecraft: `1.16.2 -1.16.5`\
 Datapack Format: `6`\
-**x2** **x4** and **Ultra** are available
+**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.16.2&g=1.16.3&g=1.16.4&g=1.16.5)
 
 ### Is Supporting
 
@@ -160,5 +187,5 @@ Resource, Guide and Infomations
 [Minecraft Title Generator](https://github.com/ewanhowell5195/MinecraftTitleGenerator)\
 Use for assets in this project
 
-[Xray Ultimate Resource Pack](https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible)
+[Xray Ultimate Resource Pack](https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible)\
 Can exactly show the ores underground, used in gallery
