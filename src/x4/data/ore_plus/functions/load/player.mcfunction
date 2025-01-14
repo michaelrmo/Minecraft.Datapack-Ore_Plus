@@ -1,6 +1,6 @@
 execute store result score #supported_versions_count ore_plus.isload run data get storage ore_plus:info supported_versions
 # tips
-tellraw @s ["\n\n§7>> §f [§d§lOre Plus §ab§l§nx4§r§f] loaded successfully"]
+tellraw @s ["\n\n§7>> §f [§d§lOre Plus §b§l§nx4§r§f] loaded successfully"]
 tellraw @s ["§7>> §fIncreasing the quantity of vanilla ore generation ",{"text":"§f[§b§nSpecifics§r§f]","clickEvent": {"action":"open_url","value": "https://modrinth.com/datapack/ore_plus"}}]
 tellraw @s ["§7>> §fMade by §dwen_wen"]
 # tips
