@@ -243,8 +243,6 @@ Welcome to [📑Issue Page](https://github.com/wen-wen520/Minecraft.Datapack-Ore
 I am really thanks everyone who follow or star this project,\
 and of course, those people who download, use and love this project are also appreciate
 
-\
-\
 Following resources are really helpful and useful,\
 thanks for their contributions
 
