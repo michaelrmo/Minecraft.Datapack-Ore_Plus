@@ -56,15 +56,15 @@ Increases the spawn rates of specific minerals, making resource gathering more e
 
 [Modrinth Gallery](https://modrinth.com/datapack/ore_plus/gallery)
 
-![The canyon ore generation using x2 datapack](https://cdn.modrinth.com/data/EvMSt5OU/images/dca5965649cb1ab5c601c1e8ef002ef2c68491a2.jpeg)
+![The ore generation using x2 datapack](https://cdn.modrinth.com/data/EvMSt5OU/images/b4b407db79492e3038f7f8089968141314b2e8d8.jpeg)
 
 <br>
 
-![The canyon ore generation using x4 datapack](https://cdn.modrinth.com/data/EvMSt5OU/images/388425fee190b0a78ac0777cb02aa3745236d230.jpeg)
+![The ore generation using x4 datapack](https://cdn.modrinth.com/data/EvMSt5OU/images/f42c4e4799a973adfddc87187760cd2f8d354d9b.jpeg)
 
 <br>
 
-![The surface ore generation using Ultra datapack](https://cdn.modrinth.com/data/EvMSt5OU/images/da9fa81e078071e1133d0d3ef6eefd415e96f2be.jpeg)
+![The ore generation using Ultra datapack](https://cdn.modrinth.com/data/EvMSt5OU/images/9fb254d863a6da3aae71865561b513d5f182ef8e.jpeg)
 
 Only Ultra will modify the range of ore generation
 
@@ -136,8 +136,8 @@ You will find **three editions of each version**, indicated by suffixes such as 
 | 1.19 - 1.19.3      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.19.3&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.19.3&l=fabric)        |
 | 1.19.4             |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4&l=fabric)        |
 | 1.20 - 1.20.6      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.20.6&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.20.6&l=fabric)        |
-| 1.21 - 1.21.4      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.21.4&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.21.4&l=fabric)        |
-| after 1.21.4       |    ❎    |        |         |
+| 1.21 - 1.21.5      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.21.4&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.21.5&l=fabric)        |
+| after 1.21.5       |    ❎    |        |         |
 
 [More info](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/Download-Table)
 
@@ -181,8 +181,8 @@ Then move the data pack to the right hand side and click **Done**
 
 ### Supported
 
-Minecraft: `1.21 - 1.21.4`\
-Datapack Format: `48 - 61`\
+Minecraft: `1.21 - 1.21.5`\
+Datapack Format: `48 - 71`\
 **x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.21)
 
 Minecraft: `1.20 - 1.20.6`\
