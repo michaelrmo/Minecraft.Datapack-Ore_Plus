@@ -2,7 +2,7 @@
 🌐
 <a href="https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus">English</a>
 &nbsp;|&nbsp;
-<a href="https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D">中文</a>
+<a href="https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/blob/1.21/README.zh.md">中文</a>
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@ Ore Plus Datapack
 设计为能够与各种 Minecraft 世界和设置顺利集成，确保最小化冲突。
 
 ### 降低苦力怕意外发生率：
-经研究表面，使用该数据包可以大大减少下矿时间，获取与原来同量的矿石，从而降低每次挖矿时被苦力怕偷袭的概率。
+经研究表明，使用该数据包可以大大减少下矿时间，获取与原来同量的矿石，从而降低每次挖矿时被苦力怕偷袭的概率。
 
 ## 🖼️ 图片
 
@@ -123,56 +123,56 @@ This table provides a convenient way to direct you to the download page,\
 quickly find the right file without getting overwhelmed by the numerous available options.\
 By using the **filters** function on Modrinth, you can choose either the datapack or mod from the following table to install in your Minecraft.
 
-You will find **three editions of each version**, indicated by suffixes such as x2, x4, and ultra. 
+你会发现有 **three editions of each version三个版本**, 使用前缀 x2, x4, 和 ultra 进行分辨. 
 
-- **x2** and **x4** are suitable for use in normal survival mode.
-- The **ultra** edition offers enhanced features.
+- **x2** 和 **x4** 版本 最适合普通的生存模式.
+- **ultra** 版本 把所有矿石生成概率调到最高.
 
-| Game Version       | Support | Download Datapack                                                                                  | Download Mod                                                                                     |
+| 游戏版本       | 是否支持 | 下载 数据包                                                                                  | 下载 模组                                                                                     |
 |--------------------|:-------:|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| before 1.16.1      |    ❎    |                                                                                          |                                                                                         |
-| 1.16.2 - 1.16.5    |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.16.5&l=datapack)        | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.16.5&l=fabric)         |
-| 1.17 - 1.17.1      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.17&l=datapack)         | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.17&l=fabric)          |
-| 1.18 - 1.18.1      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.18.1&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.18.1&l=fabric)        |
-| 1.18.2             |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.18.2&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.18.2&l=fabric)        |
-| 1.19 - 1.19.3      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.19.3&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.19.3&l=fabric)        |
-| 1.19.4             |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4&l=fabric)        |
-| 1.20 - 1.20.6      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.20.6&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.20.6&l=fabric)        |
-| 1.21 - 1.21.6      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.21.4&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.21.5&l=fabric)        |
-| after 1.21.7       |    ❎    |        |         |
+| 1.16.1 (含)之前      |    ❎    |                                                                                          |                                                                                         |
+| 1.16.2 - 1.16.5    |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.16.5&l=datapack)        | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.16.5&l=fabric)         |
+| 1.17 - 1.17.1      |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.17&l=datapack)         | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.17&l=fabric)          |
+| 1.18 - 1.18.1      |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.18.1&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.18.1&l=fabric)        |
+| 1.18.2             |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.18.2&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.18.2&l=fabric)        |
+| 1.19 - 1.19.3      |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.19.3&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.19.3&l=fabric)        |
+| 1.19.4             |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4&l=fabric)        |
+| 1.20 - 1.20.6      |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.20.6&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.20.6&l=fabric)        |
+| 1.21 - 1.21.6      |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.21.4&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.21.5&l=fabric)        |
+| 1.21.7 (含)之后       |    ❎    |        |         |
 
-[More info](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/Download-Table)
+[更多信息](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/Download-Table)
 
 ### 其他下载源
 
 <details>
 
-<summary>Show</summary>
+<summary>展开</summary>
 
-Modrinth [[⬇️ Download]](https://modrinth.com/datapack/ore_plus/versions) provides a modern UI to choose and download this datapack, Detailed rates also has been listed on download page
+Modrinth [[⬇️ 下载]](https://modrinth.com/datapack/ore_plus/versions) 提供了现代 UI 界面选择和下载此数据包，详细生成概率也在下载页面列出。
 
-Github [[📦 Realse]](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/releases) Page is good to get the source code and pack them by self
+Github [[📦 Releases]](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/releases) 适合获取源码并自行打包。
 
-Github [[🔧 Action]](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/actions) can be used to get the lasted dev build
+Github [[🔧 Action]](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/actions) 可用于获取最新的开发版本。
 
 </details>
 
 ### 安装
-Strongly recommand to install at the creation of a world
+强烈推荐在新建世界时候添加。
 
-When creating a new world\
-Find the **Data Paks** Option\
-Click and drag the data pack to Minecraft\
-Then move the data pack to the right hand side and click **Done**
+在创建世界时\
+找到 **数据包** 选项\
+将数据包拖入游戏窗口内\
+然后把数据包移到右手位置并且点击 **完成**
 
-[For detailed steps](https://minecraft.wiki/w/Tutorial:Installing_a_data_pack)
+[获取更加详细步骤](https://minecraft.wiki/w/Tutorial:Installing_a_data_pack)
 
 >[!Tip]
->Modrinth also provide auto [packed mod](https://modrinth.com/datapack/ore_plus/versions?l=fabric&l=forge&l=quilt&l=neoforge).
+>Modrinth 也提供打包好的 [模组](https://modrinth.com/datapack/ore_plus/versions?l=fabric&l=forge&l=quilt&l=neoforge).
 
 ## ⚙️ 版本
 
-![Supported Game Versions](https://img.shields.io/badge/Minecraft-1.16.2--1.16.5_|_1.17.x_|_1.18.x_|_1.19.x_|_1.20.x_|_1.21.x-passing?style=flat&label=Minecraft&labelColor=E1FFFE&color=E1FFFE&link=https%3A%2F%2Fmodrinth.com%2Fdatapack%2Fore_plus%2Fversions&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwLjI1IDExQzkuODM1NzkgMTEgOS41IDExLjMzNTggOS41IDExLjc1QzkuNSAxMi4xNjQyIDkuODM1NzkgMTIuNSAxMC4yNSAxMi41SDEzLjc1QzE0LjE2NDIgMTIuNSAxNC41IDEyLjE2NDIgMTQuNSAxMS43NUMxNC41IDExLjMzNTggMTQuMTY0MiAxMSAxMy43NSAxMUgxMC4yNVpNMyA1LjI1QzMgNC4wMDczNiA0LjAwNzM2IDMgNS4yNSAzSDE4Ljc1QzE5Ljk5MjYgMyAyMSA0LjAwNzM2IDIxIDUuMjVWNi43NUMyMSA3LjUzMDEgMjAuNjAzIDguMjE3NDggMjAgOC42MjExMVYxNy4yNUMyMCAxOS4zMjExIDE4LjMyMTEgMjEgMTYuMjUgMjFINy43NUM1LjY3ODkzIDIxIDQgMTkuMzIxMSA0IDE3LjI1VjguNjIxMTFDMy4zOTcwMSA4LjIxNzQ4IDMgNy41MzAxIDMgNi43NVY1LjI1Wk01LjUgOVYxNy4yNUM1LjUgMTguNDkyNiA2LjUwNzM2IDE5LjUgNy43NSAxOS41SDE2LjI1QzE3LjQ5MjYgMTkuNSAxOC41IDE4LjQ5MjYgMTguNSAxNy4yNVY5SDUuNVpNNS4yNSA0LjVDNC44MzU3OSA0LjUgNC41IDQuODM1NzkgNC41IDUuMjVWNi43NUM0LjUgNy4xNjQyMSA0LjgzNTc5IDcuNSA1LjI1IDcuNUgxOC43NUMxOS4xNjQyIDcuNSAxOS41IDcuMTY0MjEgMTkuNSA2Ljc1VjUuMjVDMTkuNSA0LjgzNTc5IDE5LjE2NDIgNC41IDE4Ljc1IDQuNUg1LjI1WiIgZmlsbD0iIzIxMjEyMSIvPgo8L3N2Zz4K)
+![支持游戏版本](https://img.shields.io/badge/Minecraft-1.16.2--1.16.5_|_1.17.x_|_1.18.x_|_1.19.x_|_1.20.x_|_1.21.x-passing?style=flat&label=Minecraft&labelColor=E1FFFE&color=E1FFFE&link=https%3A%2F%2Fmodrinth.com%2Fdatapack%2Fore_plus%2Fversions&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwLjI1IDExQzkuODM1NzkgMTEgOS41IDExLjMzNTggOS41IDExLjc1QzkuNSAxMi4xNjQyIDkuODM1NzkgMTIuNSAxMC4yNSAxMi41SDEzLjc1QzE0LjE2NDIgMTIuNSAxNC41IDEyLjE2NDIgMTQuNSAxMS43NUMxNC41IDExLjMzNTggMTQuMTY0MiAxMSAxMy43NSAxMUgxMC4yNVpNMyA1LjI1QzMgNC4wMDczNiA0LjAwNzM2IDMgNS4yNSAzSDE4Ljc1QzE5Ljk5MjYgMyAyMSA0LjAwNzM2IDIxIDUuMjVWNi43NUMyMSA3LjUzMDEgMjAuNjAzIDguMjE3NDggMjAgOC42MjExMVYxNy4yNUMyMCAxOS4zMjExIDE4LjMyMTEgMjEgMTYuMjUgMjFINy43NUM1LjY3ODkzIDIxIDQgMTkuMzIxMSA0IDE3LjI1VjguNjIxMTFDMy4zOTcwMSA4LjIxNzQ4IDMgNy41MzAxIDMgNi43NVY1LjI1Wk01LjUgOVYxNy4yNUM1LjUgMTguNDkyNiA2LjUwNzM2IDE5LjUgNy43NSAxOS41SDE2LjI1QzE3LjQ5MjYgMTkuNSAxOC41IDE4LjQ5MjYgMTguNSAxNy4yNVY5SDUuNVpNNS4yNSA0LjVDNC44MzU3OSA0LjUgNC41IDQuODM1NzkgNC41IDUuMjVWNi43NUM0LjUgNy4xNjQyMSA0LjgzNTc5IDcuNSA1LjI1IDcuNUgxOC43NUMxOS4xNjQyIDcuNSAxOS41IDcuMTY0MjEgMTkuNSA2Ljc1VjUuMjVDMTkuNSA0LjgzNTc5IDE5LjE2NDIgNC41IDE4Ljc1IDQuNUg1LjI1WiIgZmlsbD0iIzIxMjEyMSIvPgo8L3N2Zz4K)
 
 ![Modrinth Latest Version](https://img.shields.io/modrinth/v/EvMSt5OU?label=Latest%20Version&labelColor=E1FFFE&color=E1FFFE&link=https%3A%2F%2Fmodrinth.com%2Fdatapack%2Fore_plus%2Fversions&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyLjAwMDEgMS45OTgwNUMxNy41MjM4IDEuOTk4MDUgMjIuMDAxNiA2LjQ3NTg5IDIyLjAwMTYgMTEuOTk5NkMyMi4wMDE2IDE3LjUyMzMgMTcuNTIzOCAyMi4wMDExIDEyLjAwMDEgMjIuMDAxMUM2LjQ3NjM4IDIyLjAwMTEgMS45OTg1NCAxNy41MjMzIDEuOTk4NTQgMTEuOTk5NkMxLjk5ODU0IDYuNDc1ODkgNi40NzYzOCAxLjk5ODA1IDEyLjAwMDEgMS45OTgwNVpNMTIuMDAwMSAzLjQ5ODA1QzcuMzA0ODEgMy40OTgwNSAzLjQ5ODU0IDcuMzA0MzIgMy40OTg1NCAxMS45OTk2QzMuNDk4NTQgMTYuNjk0OSA3LjMwNDgxIDIwLjUwMTEgMTIuMDAwMSAyMC41MDExQzE2LjY5NTQgMjAuNTAxMSAyMC41MDE2IDE2LjY5NDkgMjAuNTAxNiAxMS45OTk2QzIwLjUwMTYgNy4zMDQzMiAxNi42OTU0IDMuNDk4MDUgMTIuMDAwMSAzLjQ5ODA1Wk0xMS45OTY0IDEwLjQ5ODZDMTIuMzc2MSAxMC40OTg0IDEyLjY5MDEgMTAuNzgwMyAxMi43NCAxMS4xNDY0TDEyLjc0NjkgMTEuMjQ4MUwxMi43NTA1IDE2Ljc0OTdDMTIuNzUwOCAxNy4xNjM5IDEyLjQxNTIgMTcuNSAxMi4wMDEgMTcuNTAwMkMxMS42MjEzIDE3LjUwMDUgMTEuMzA3MyAxNy4yMTg1IDExLjI1NzQgMTYuODUyNUwxMS4yNTA1IDE2Ljc1MDdMMTEuMjQ2OSAxMS4yNDkxQzExLjI0NjcgMTAuODM0OSAxMS41ODIyIDEwLjQ5ODkgMTEuOTk2NCAxMC40OTg2Wk0xMi4wMDA1IDcuMDAwODZDMTIuNTUyMSA3LjAwMDg2IDEyLjk5OTIgNy40NDc5OCAxMi45OTkyIDcuOTk5NTNDMTIuOTk5MiA4LjU1MTA3IDEyLjU1MjEgOC45OTgxOSAxMi4wMDA1IDguOTk4MTlDMTEuNDQ5IDguOTk4MTkgMTEuMDAxOSA4LjU1MTA3IDExLjAwMTkgNy45OTk1M0MxMS4wMDE5IDcuNDQ3OTggMTEuNDQ5IDcuMDAwODYgMTIuMDAwNSA3LjAwMDg2WiIgZmlsbD0iIzIxMjEyMSIvPgo8L3N2Zz4K)
 ![GitHub Latest Release Date](https://img.shields.io/github/release-date/wen-wen520/Minecraft.Datapack-Ore_Plus?label=Latest%20Release%20Date&labelColor=E1FFFE&color=E1FFFE&link=https%3A%2F%2Fmodrinth.com%2Fdatapack%2Fore_plus%2Fversions&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE3Ljc1IDNDMTkuNTQ0OSAzIDIxIDQuNDU1MDcgMjEgNi4yNVYxNy43NUMyMSAxOS41NDQ5IDE5LjU0NDkgMjEgMTcuNzUgMjFINi4yNUM0LjQ1NTA3IDIxIDMgMTkuNTQ0OSAzIDE3Ljc1VjYuMjVDMyA0LjQ1NTA3IDQuNDU1MDcgMyA2LjI1IDNIMTcuNzVaTTE5LjUgOC41SDQuNVYxNy43NUM0LjUgMTguNzE2NSA1LjI4MzUgMTkuNSA2LjI1IDE5LjVIMTcuNzVDMTguNzE2NSAxOS41IDE5LjUgMTguNzE2NSAxOS41IDE3Ljc1VjguNVpNNy43NSAxNC41QzguNDQwMzYgMTQuNSA5IDE1LjA1OTYgOSAxNS43NUM5IDE2LjQ0MDQgOC40NDAzNiAxNyA3Ljc1IDE3QzcuMDU5NjQgMTcgNi41IDE2LjQ0MDQgNi41IDE1Ljc1QzYuNSAxNS4wNTk2IDcuMDU5NjQgMTQuNSA3Ljc1IDE0LjVaTTEyIDE0LjVDMTIuNjkwNCAxNC41IDEzLjI1IDE1LjA1OTYgMTMuMjUgMTUuNzVDMTMuMjUgMTYuNDQwNCAxMi42OTA0IDE3IDEyIDE3QzExLjMwOTYgMTcgMTAuNzUgMTYuNDQwNCAxMC43NSAxNS43NUMxMC43NSAxNS4wNTk2IDExLjMwOTYgMTQuNSAxMiAxNC41Wk03Ljc1IDEwLjVDOC40NDAzNiAxMC41IDkgMTEuMDU5NiA5IDExLjc1QzkgMTIuNDQwNCA4LjQ0MDM2IDEzIDcuNzUgMTNDNy4wNTk2NCAxMyA2LjUgMTIuNDQwNCA2LjUgMTEuNzVDNi41IDExLjA1OTYgNy4wNTk2NCAxMC41IDcuNzUgMTAuNVpNMTIgMTAuNUMxMi42OTA0IDEwLjUgMTMuMjUgMTEuMDU5NiAxMy4yNSAxMS43NUMxMy4yNSAxMi40NDA0IDEyLjY5MDQgMTMgMTIgMTNDMTEuMzA5NiAxMyAxMC43NSAxMi40NDA0IDEwLjc1IDExLjc1QzEwLjc1IDExLjA1OTYgMTEuMzA5NiAxMC41IDEyIDEwLjVaTTE2LjI1IDEwLjVDMTYuOTQwNCAxMC41IDE3LjUgMTEuMDU5NiAxNy41IDExLjc1QzE3LjUgMTIuNDQwNCAxNi45NDA0IDEzIDE2LjI1IDEzQzE1LjU1OTYgMTMgMTUgMTIuNDQwNCAxNSAxMS43NUMxNSAxMS4wNTk2IDE1LjU1OTYgMTAuNSAxNi4yNSAxMC41Wk0xNy43NSA0LjVINi4yNUM1LjI4MzUgNC41IDQuNSA1LjI4MzUgNC41IDYuMjVWN0gxOS41VjYuMjVDMTkuNSA1LjI4MzUgMTguNzE2NSA0LjUgMTcuNzUgNC41WiIgZmlsbD0iIzIxMjEyMSIvPgo8L3N2Zz4K)
