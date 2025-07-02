@@ -119,9 +119,7 @@ Ore Plus Datapack
 
 ### 【推荐】 下载表格
 
-This table provides a convenient way to direct you to the download page,\
-quickly find the right file without getting overwhelmed by the numerous available options.\
-By using the **filters** function on Modrinth, you can choose either the datapack or mod from the following table to install in your Minecraft.
+你可以通过下面表格快速到达下载界面进行下载
 
 你会发现有 **three editions of each version三个版本**, 使用前缀 x2, x4, 和 ultra 进行分辨. 
 
@@ -179,57 +177,57 @@ Github [[🔧 Action]](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus
 
 <details>
 
-<summary>Versions Info</summary>
+<summary>版本详细信息</summary>
 
 ### 在支持
 
-Minecraft: `1.21 - 1.21.6`\
-Datapack Format: `48 - 80`\
-**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.21)
+游戏版本: `1.21 - 1.21.6`\
+数据包格式: `48 - 80`\
+**x2** **x4** 和 **Ultra** 可以 [下载 ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.21)
 
-Minecraft: `1.20 - 1.20.6`\
-Datapack Format: `15 - 41`\
-**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.20)
+游戏版本: `1.20 - 1.20.6`\
+数据包格式: `15 - 41`\
+**x2** **x4** 和 **Ultra** 可以 [下载 ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.20)
 
-Minecraft: `1.19.4`\
-Datapack Format: `12`\
-**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4)
+游戏版本: `1.19.4`\
+数据包格式: `12`\
+**x2** **x4** 和 **Ultra** 可以 [下载 ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4)
 
-Minecraft: `1.19-1.19.3`\
-Datapack Format: `10`\
-**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.19&g=1.19.1&g=1.19.2&g=1.19.3)
+游戏版本: `1.19-1.19.3`\
+数据包格式: `10`\
+**x2** **x4** 和 **Ultra** 可以 [下载 ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.19&g=1.19.1&g=1.19.2&g=1.19.3)
 
-Minecraft: `1.18.2`\
-Datapack Format: `9`\
-**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.18.2)
+游戏版本: `1.18.2`\
+数据包格式 `9`\
+**x2** **x4** 和 **Ultra** 可以 [下载 ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.18.2)
 
-Minecraft: `1.18 - 1.18.1`\
-Datapack Format: `8`\
-**Limited Support[ℹ️](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/For-mc1.18)**\
-**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.18&g=1.18.1)
+游戏版本: `1.18 - 1.18.1`\
+数据包格式: `8`\
+**有限支持[ℹ️](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/For-mc1.18)**\
+**x2** **x4** 和 **Ultra** 可以 [下载 ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.18&g=1.18.1)
 
-Minecraft: `1.17 - 1.17.1`\
-Datapack Format: `7`\
-**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.17&g=1.17.1)
+游戏版本: `1.17 - 1.17.1`\
+数据包格式: `7`\
+**x2** **x4** 和 **Ultra** 可以 [下载 ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.17&g=1.17.1)
 
-Minecraft: `1.16.2 -1.16.5`\
-Datapack Format: `6`\
-**x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.16.2&g=1.16.3&g=1.16.4&g=1.16.5)
+游戏版本: `1.16.2 -1.16.5`\
+数据包格式: `6`\
+**x2** **x4** 和 **Ultra** 可以 [下载 ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.16.2&g=1.16.3&g=1.16.4&g=1.16.5)
 
 ### 将支持
 
-mc `1.21.7` are on the way here
+游戏版本 `1.21.7` 正在支持中
 
 ### 不支持
 
-below `1.16.1` (Included)\
-The key part to modify ore pre generated `worldgen` has not been introduced to datapack
+游戏版本 `1.16.1` (含) 以下\
+世界修改文件夹 `worldgen` 在老版本内并未添加
 
 </details>
 
 ## 📃 反馈
 
-Welcome to [📑Issue Page](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/issues/new/choose) to submit any bugs or featuers.
+欢迎前往 [📑议题](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/issues/new/choose) 进行反馈。
 
 
 ## 📜 许可
@@ -237,29 +235,28 @@ Welcome to [📑Issue Page](https://github.com/wen-wen520/Minecraft.Datapack-Ore
 
 ## 🎉 鸣谢
 
-![Modrinth Follows](https://img.shields.io/modrinth/followers/EvMSt5OU?style=flat&label=Follows&labelColor=E1FFFE&color=E1FFFE&link=https%3A%2F%2Fmodrinth.com%2Fdatapack%2Fore_plus&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyLjgxOTkgNS41NzkxMkwxMS45OTkyIDYuNDAxNjNMMTEuMTc1OSA1LjU3ODM4QzkuMDc2ODggMy40NzkzMSA1LjY3MzYxIDMuNDc5MzEgMy41NzQ1NSA1LjU3ODM4QzEuNDc1NDggNy42Nzc0NCAxLjQ3NTQ4IDExLjA4MDcgMy41NzQ1NSAxMy4xNzk4TDExLjQ2OTkgMjEuMDc1MUMxMS43NjI4IDIxLjM2OCAxMi4yMzc3IDIxLjM2OCAxMi41MzA2IDIxLjA3NTFMMjAuNDMyIDEzLjE3ODNDMjIuNTI2NCAxMS4wNzIzIDIyLjUzIDcuNjc4NTcgMjAuNDMwNiA1LjU3OTEyQzE4LjMyNzcgMy40NzYyMyAxNC45MjI4IDMuNDc2MjMgMTIuODE5OSA1LjU3OTEyWk0xOS4zNjg0IDEyLjEyMDZMMTIuMDAwMiAxOS40ODQyTDQuNjM1MjEgMTIuMTE5MUMzLjEyMTkyIDEwLjYwNTggMy4xMjE5MiA4LjE1MjMyIDQuNjM1MjEgNi42MzkwNEM2LjE0ODQ5IDUuMTI1NzUgOC42MDIgNS4xMjU3NSAxMC4xMTUzIDYuNjM5MDRMMTEuNDcyNyA3Ljk5NjQ4QzExLjc3MDYgOC4yOTQzNSAxMi4yNTUzIDguMjg4NTQgMTIuNTQ1OSA3Ljk4MzYzTDEzLjg4MDYgNi42Mzk3OEMxNS4zOTc3IDUuMTIyNjggMTcuODUyOCA1LjEyMjY4IDE5LjM2OTkgNi42Mzk3OEMyMC44ODM2IDguMTUzNDMgMjAuODgxIDEwLjU5OTcgMTkuMzY4NCAxMi4xMjA2WiIgZmlsbD0iIzIxMjEyMSIvPgo8L3N2Zz4K)
-![GitHub Stars](https://img.shields.io/github/stars/wen-wen520/Minecraft.Datapack-Ore_Plus?style=flat&labelColor=E1FFFE&color=E1FFFE&label=Stars)
+![Modrinth 关注人数](https://img.shields.io/modrinth/followers/EvMSt5OU?style=flat&label=关注人数&labelColor=E1FFFE&color=E1FFFE&link=https%3A%2F%2Fmodrinth.com%2Fdatapack%2Fore_plus&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyLjgxOTkgNS41NzkxMkwxMS45OTkyIDYuNDAxNjNMMTEuMTc1OSA1LjU3ODM4QzkuMDc2ODggMy40NzkzMSA1LjY3MzYxIDMuNDc5MzEgMy41NzQ1NSA1LjU3ODM4QzEuNDc1NDggNy42Nzc0NCAxLjQ3NTQ4IDExLjA4MDcgMy41NzQ1NSAxMy4xNzk4TDExLjQ2OTkgMjEuMDc1MUMxMS43NjI4IDIxLjM2OCAxMi4yMzc3IDIxLjM2OCAxMi41MzA2IDIxLjA3NTFMMjAuNDMyIDEzLjE3ODNDMjIuNTI2NCAxMS4wNzIzIDIyLjUzIDcuNjc4NTcgMjAuNDMwNiA1LjU3OTEyQzE4LjMyNzcgMy40NzYyMyAxNC45MjI4IDMuNDc2MjMgMTIuODE5OSA1LjU3OTEyWk0xOS4zNjg0IDEyLjEyMDZMMTIuMDAwMiAxOS40ODQyTDQuNjM1MjEgMTIuMTE5MUMzLjEyMTkyIDEwLjYwNTggMy4xMjE5MiA4LjE1MjMyIDQuNjM1MjEgNi42MzkwNEM2LjE0ODQ5IDUuMTI1NzUgOC42MDIgNS4xMjU3NSAxMC4xMTUzIDYuNjM5MDRMMTEuNDcyNyA3Ljk5NjQ4QzExLjc3MDYgOC4yOTQzNSAxMi4yNTUzIDguMjg4NTQgMTIuNTQ1OSA3Ljk4MzYzTDEzLjg4MDYgNi42Mzk3OEMxNS4zOTc3IDUuMTIyNjggMTcuODUyOCA1LjEyMjY4IDE5LjM2OTkgNi42Mzk3OEMyMC44ODM2IDguMTUzNDMgMjAuODgxIDEwLjU5OTcgMTkuMzY4NCAxMi4xMjA2WiIgZmlsbD0iIzIxMjEyMSIvPgo8L3N2Zz4K)
+![GitHub 星标数量](https://img.shields.io/github/stars/wen-wen520/Minecraft.Datapack-Ore_Plus?style=flat&labelColor=E1FFFE&color=E1FFFE&label=星标数量)
 
-I am really thanks everyone who follow or star this project,\
-and of course, those people who download, use and love this project are also appreciate
+文文在这里非常感谢大家能为本项目星标或者关注,\
+同时也很感谢大家下载并且使用这个数据包或者模组
 
-Following resources are really helpful and useful,\
-thanks for their contributions
+也鸣谢以下内容提供者和开源项目。
 
 [Minecraft](https://www.minecraft.net/)\
-Provide the vanilla game (:
+提供原版游戏 (:
 
 [Minecraft Wiki](https://minecraft.wiki/)\
-Resource, Guide and Infomations
+游戏百科
 
 [Misode](https://github.com/misode/misode.github.io)\
-Povide easy ways to create some files
+用于部分资源生成
 
 [Spyglass](https://github.com/SpyglassMC/Spyglass)\
-The best extension on VS Code for Minecraft Datapack
+个人认为最好的 我的世界 数据包插件
 
 [Minecraft Title Generator](https://github.com/ewanhowell5195/MinecraftTitleGenerator)\
-Use for screenshot in this project
+部分资源生成
 
 [Xray Ultimate Resource Pack](https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible)\
-Can exactly show the ores underground, used in gallery
+展示矿石生成效果
