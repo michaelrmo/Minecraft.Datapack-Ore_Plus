@@ -1,0 +1,1 @@
+data modify storage ore_plus:packs loaded_packs append value {"info":{"name":"Ore Plus","target_formats":[81],"target_versions":["1.21.7"],"edition":"Ultra"},"attributes":{"is_main_pack":0b,"target_formats_count":1,"target_versions_count":1}}
