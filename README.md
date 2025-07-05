@@ -136,8 +136,8 @@ You will find **three editions of each version**, indicated by suffixes such as 
 | 1.19 - 1.19.3      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.19.3&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.19.3&l=fabric)        |
 | 1.19.4             |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4&l=fabric)        |
 | 1.20 - 1.20.6      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.20.6&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.20.6&l=fabric)        |
-| 1.21 - 1.21.6      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.21.4&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.21.5&l=fabric)        |
-| after 1.21.7       |    ❎    |        |         |
+| 1.21 - 1.21.7      |    ✅    | [⬇️ Datapack](https://modrinth.com/datapack/ore_plus/versions?g=1.21.4&l=datapack)       | [⬇️ Mod](https://modrinth.com/datapack/ore_plus/versions?g=1.21.5&l=fabric)        |
+| after 1.21.8       |    ❎    |        |         |
 
 [More info](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/Download-Table)
 
@@ -181,8 +181,8 @@ Then move the data pack to the right hand side and click **Done**
 
 ### Supported
 
-Minecraft: `1.21 - 1.21.6`\
-Datapack Format: `48 - 80`\
+Minecraft: `1.21 - 1.21.7`\
+Datapack Format: `48 - 81`\
 **x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.21)
 
 Minecraft: `1.20 - 1.20.6`\
