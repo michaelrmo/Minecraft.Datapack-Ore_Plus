@@ -134,8 +134,8 @@ Ore Plus Datapack
 | 1.19 - 1.19.3      |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.19.3&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.19.3&l=fabric)        |
 | 1.19.4             |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.19.4&l=fabric)        |
 | 1.20 - 1.20.6      |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.20.6&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.20.6&l=fabric)        |
-| 1.21 - 1.21.7      |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.21.4&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.21.5&l=fabric)        |
-| 1.21.8 (含)之后       |    ❎    |        |         |
+| 1.21 - 1.21.8      |    ✅    | [⬇️ 数据包](https://modrinth.com/datapack/ore_plus/versions?g=1.21.4&l=datapack)       | [⬇️ 模组](https://modrinth.com/datapack/ore_plus/versions?g=1.21.5&l=fabric)        |
+| 1.21.9 (含)之后       |    ❎    |        |         |
 
 [更多信息](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/wiki/Download-Table)
 
@@ -179,7 +179,7 @@ Github [[🔧 Action]](https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus
 
 ### 在支持
 
-游戏版本: `1.21 - 1.21.7`\
+游戏版本: `1.21 - 1.21.8`\
 数据包格式: `48 - 81`\
 **x2** **x4** 和 **Ultra** 可以 [下载 ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.21)
 

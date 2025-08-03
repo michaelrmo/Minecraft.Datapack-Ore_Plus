@@ -181,7 +181,7 @@ Then move the data pack to the right hand side and click **Done**
 
 ### Supported
 
-Minecraft: `1.21 - 1.21.7`\
+Minecraft: `1.21 - 1.21.8`\
 Datapack Format: `48 - 81`\
 **x2** **x4** and **Ultra** are [available ⬇️](https://modrinth.com/datapack/ore_plus/versions?g=1.21)
 
