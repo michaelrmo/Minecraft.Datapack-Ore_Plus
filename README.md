@@ -2,7 +2,7 @@
 🌐
 <a href="https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus">English</a>
 &nbsp;|&nbsp;
-<a href="https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/blob/1.21/README.zh.md">中文</a>
+<a href="https://github.com/wen-wen520/Minecraft.Datapack-Ore_Plus/blob/1.21.9/README.zh.md">中文</a>
 </div>
 
 <div align="center">
