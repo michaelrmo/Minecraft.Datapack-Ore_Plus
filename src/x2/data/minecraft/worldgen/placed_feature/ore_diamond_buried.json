@@ -2,7 +2,7 @@
   "feature": "minecraft:ore_diamond_buried",
   "placement": [
     {
-      "count": 12,
+      "count": 6,
       "type": "minecraft:count"
     },
     {

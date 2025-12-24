@@ -2,7 +2,7 @@
   "feature": "minecraft:ore_diamond_large",
   "placement": [
     {
-      "chance": 24,
+      "chance": 13,
       "type": "minecraft:rarity_filter"
     },
     {
